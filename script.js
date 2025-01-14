@@ -73,7 +73,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         if (newLineCompleted) {
-            alert("Hipster Bingo!");
+            alert("GEA Bingo!");
         }
 
         if (cells.every(cell => cell.classList.contains("selected"))) {

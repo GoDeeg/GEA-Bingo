@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const words = ["'Gut isch'", "'Allora'", "'(Eigene Name)' wird gesagt", "'Mei...'", "'Echt'", "'Feierabend'", "'Freitag fertig'", "'Kuchen'", "'Wuuuffff!'", "6", "7", "8", "9", "10", "1", "12", "13", "14", "15", "16", "17", "18", "19", "20", "'Einfach Machen'"];
+    const words = ["'Gut isch'", "'Allora'", "'(Eigene Name)' wird gesagt", "'Mei...'", "'Echt'", "'Feierabend'", "'Freitag fertig'", "'Kuchen'", "'Wuuuffff!'", "Ahh..ge", "7", "8", "9", "10", "1", "12", "13", "14", "15", "16", "17", "18", "19", "20", "'Einfach Machen'"];
     const bingoCard = document.getElementById("bingo-card");
     const regenerateButton = document.getElementById("regenerate-card");
 

@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const cell = document.createElement("div");
             cell.classList.add("cell");
             if (i === 12) {
-                cell.textContent = "Hipster Bingo";
+                cell.textContent = "GEA-Bingo";
                 cell.classList.add("free");
             } else {
                 cell.textContent = shuffledWords.pop();
